@@ -1,4 +1,3 @@
 # ds_projects
 
-add data science projects here 
-will serve as a portfolio
+add data science projects here. This will serve as a portfolio
